@@ -20,7 +20,7 @@ This is a simple yet elegant recruitment website that allows potential team memb
 ```
 moka-recruitment/
 ├── index.html          # Main HTML file
-├── styles.css          # CSS styling (referenced but not included)
+├── styles.css          # CSS styling
 └── README.md           # This file
 ```
 
